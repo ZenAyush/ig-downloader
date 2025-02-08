@@ -21,17 +21,4 @@ Before running the script, make sure you have the following installed:
   ```bash
   pip install yt-dlp
 
-(Optional) FFmpeg
-Some downloads or post-processing operations might require FFmpeg.
-macOS (using Homebrew):
-bash
-Copy
-Edit
-brew install ffmpeg
-Ubuntu/Debian:
-bash
-Copy
-Edit
-sudo apt update && sudo apt install ffmpeg
-Windows:
-Download the binaries from the FFmpeg website and follow the installation instructions.
+
