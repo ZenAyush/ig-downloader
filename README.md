@@ -1,6 +1,6 @@
 # Instagram Downloader
 
-A simple Python script that downloads Instagram videos, reels, or posts using [yt-dlp](https://github.com/yt-dlp/yt-dlp). This project is created for educational purposes—to help you learn about automating downloads and working with external command-line tools in Python.
+A simple Python script that downloads Instagram videos, reels, or posts using [yt-dlp](https://github.com/yt-dlp/yt-dlp). This project is created for educational purposes to help you learn about automating downloads and working with external command-line tools in Python.
 
 ## Features
 
@@ -21,5 +21,4 @@ Before running the script, make sure you have the following installed:
   ```bash
   pip install yt-dlp
 
-Disclaimer
-This project is for educational purposes only. Please ensure that you comply with Instagram's Terms of Service and only download content for which you have proper rights or permissions.
+
