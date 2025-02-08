@@ -21,4 +21,5 @@ Before running the script, make sure you have the following installed:
   ```bash
   pip install yt-dlp
 
-
+Disclaimer
+This project is for educational purposes only. Please ensure that you comply with Instagram's Terms of Service and only download content for which you have proper rights or permissions.
