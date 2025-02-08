@@ -40,7 +40,7 @@ Ensure you have the following installed:
 
 By default, downloaded videos are saved in the **downloads/** folder. To change the location:
 
-1. Open `downloader.py` in a text editor.
+1. Open `ig-downloader.py` in a text editor.
 2. Modify the `output_path` variable to your desired folder location.
 3. Save the file and rerun the script.
 
