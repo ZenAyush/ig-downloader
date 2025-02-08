@@ -26,8 +26,8 @@ Ensure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Instagram-Video-Downloader.git
-   cd Instagram-Video-Downloader
+   git clone https://github.com/zenayush/ig-downloader.git
+   cd ig-downloader
    ```
 2. Install `yt-dlp`:
    ```bash
