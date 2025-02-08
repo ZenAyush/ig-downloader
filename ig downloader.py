@@ -1,6 +1,6 @@
 import subprocess
 
-def download_instagram_video(video_url, output_path="C:\\Users\\ZenAyush\\Downloads\\ig-vids"):
+def download_instagram_video(video_url, output_path="PASTE THE FOLDER LOCATION"):
     """
     Downloads an Instagram video, reel, or post using yt-dlp.
     """
