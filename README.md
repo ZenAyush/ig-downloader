@@ -1,24 +1,41 @@
-# Instagram Downloader
+# Instagram Video Downloader
 
-A simple Python script that downloads Instagram videos, reels, or posts using [yt-dlp](https://github.com/yt-dlp/yt-dlp). This project is created for educational purposes to help you learn about automating downloads and working with external command-line tools in Python.
+An easy-to-use Python script to download Instagram videos, reels, and posts using `yt-dlp`. This tool is intended for educational and experimental purposes only.
 
 ## Features
+- Download Instagram videos, reels, and posts.
+- Automatically saves videos with appropriate titles.
+- Handles missing dependencies gracefully.
+- Simple and beginner-friendly.
 
-- **Download Instagram Media:** Easily download videos, reels, or posts from Instagram.
-- **Customizable Output:** Specify the folder where downloaded files will be saved.
-- **Educational:** A straightforward example to learn how to integrate Python with command-line utilities.
+## Installation
+### **Prerequisites**
+Ensure you have the following installed:
+- **Python** (3.7 or later)
+- **yt-dlp** (YouTube-DLP, required for downloading videos)
 
-## Prerequisites
+### **Setup**
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/Instagram-Video-Downloader.git
+   cd Instagram-Video-Downloader
+   ```
+2. Install `yt-dlp`:
+   ```bash
+   pip install yt-dlp
+   ```
 
-Before running the script, make sure you have the following installed:
+## Usage
+1. Run the script:
+   ```bash
+   python downloader.py
+   ```
+2. Enter the Instagram video URL when prompted.
+3. The video will be downloaded and saved in the **downloads/** folder by default.
 
-- **Python 3.x**  
-  Download and install from [python.org](https://www.python.org/downloads/).
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-- **yt-dlp**  
-  A command-line program to download videos from various sites.  
-  Install via pip:
-  ```bash
-  pip install yt-dlp
-
+## Disclaimer
+This script is for educational purposes only. Downloading videos from Instagram without permission may violate their terms of service. The author is not responsible for any misuse of this script.
 
